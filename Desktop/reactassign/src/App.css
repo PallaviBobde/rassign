@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-weight: bold;
+}
+
+.navbar span:hover{
+    border-bottom: 2px solid tomato;
+    cursor: pointer;
+}
+.card{
+    cursor: pointer;
+}
+.headname{
+    color: tomato;
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.smallcard{
+    min-width: 150px;
+    width: 15rem;
+}
+.email{
+    color: tomato;
+}
+.smallcard:hover{
+    background-color: mediumslateblue;
+    color: white;
+}
+.smallcard:hover .email{
+    color: white;
+}
+.bigwidth{
+    width: 70%;
+}
+.streetnum{
+    color: mediumslateblue;
+}
+.location{
+    font-weight: 450;
+}
+.bold{
+    font-weight: bold;
+}
+.gender{
+    text-transform: capitalize;
+}

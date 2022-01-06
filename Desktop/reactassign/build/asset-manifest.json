@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PallaviBobde/rassign.git/static/css/main.f501e95d.css",
+    "main.js": "/PallaviBobde/rassign.git/static/js/main.1fe07665.js",
+    "index.html": "/PallaviBobde/rassign.git/index.html",
+    "main.f501e95d.css.map": "/PallaviBobde/rassign.git/static/css/main.f501e95d.css.map",
+    "main.1fe07665.js.map": "/PallaviBobde/rassign.git/static/js/main.1fe07665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f501e95d.css",
+    "static/js/main.1fe07665.js"
+  ]
+}
